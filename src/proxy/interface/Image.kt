@@ -1,4 +1,5 @@
 package proxy.`interface`
 
-class Image {
+interface Image {
+    fun display()
 }
