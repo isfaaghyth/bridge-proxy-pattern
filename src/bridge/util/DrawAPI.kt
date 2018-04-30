@@ -1,4 +1,4 @@
-package util
+package bridge.util
 
 interface DrawAPI {
     fun drawCircle(radius: Int, x: Int, y: Int)
