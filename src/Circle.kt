@@ -15,7 +15,7 @@ class Circle: Shape {
 
 
     override fun draw() {
-
+        drawAPI.drawCircle(radius,x,y)
     }
 
 }
